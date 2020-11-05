@@ -1,0 +1,2 @@
+# typecho-magic
+typecho-magic
